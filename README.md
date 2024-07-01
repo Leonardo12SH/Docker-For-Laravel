@@ -15,10 +15,7 @@ Proyek ini menyediakan lingkungan Docker lengkap untuk menjalankan aplikasi Lara
 3. [Struktur Docker](#struktur-docker)
 4. [Penggunaan](#penggunaan)
 5. [Konfigurasi Tambahan](#konfigurasi-tambahan)
-6. [Contributing](#contributing)
-7. [Lisensi](#lisensi)
-8. [Kontak](#kontak)
-
+   
 ## Prasyarat
 
 - Docker 20.10 atau lebih baru
